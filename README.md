@@ -93,27 +93,6 @@ The architecture consists of the following components:
 
     ![Kibana Dashboard](Output.png)
 
-## Screenshots
-
-### Confluent Kafka Topics
-
-![Confluent Kafka Topics](path/to/confluent_topics.png)
-
-*Description:* This screenshot shows the list of Kafka topics in Confluent Cloud, including the raw_reviews topic, the enriched_reviews topic, and the topic for data from MongoDB.
-
-### MongoDB Atlas Collections
-
-![MongoDB Atlas Collections](path/to/mongodb_collections.png)
-
-*Description:* This screenshot displays the collections in the MongoDB Atlas database, including the enriched_reviews_collection that stores the processed Yelp review data.
-
-### Kibana Dashboard
-
-![Kibana Dashboard](path/to/kibana_dashboard.png)
-
-*Description:* This screenshot showcases the Kibana dashboard with various visualizations, providing real-time insights into the sentiment analysis results and other metrics.
-
-**(Add more screenshots as needed)**
 
 ## Running the Pipeline
 
@@ -126,4 +105,3 @@ The architecture consists of the following components:
 
 This project demonstrates a robust and scalable real-time data pipeline for sentiment analysis. By leveraging the power of Kafka, Spark Streaming, MongoDB, Elasticsearch, and Kibana, we can gain valuable insights from large datasets and make data-driven decisions in real-time.
 
-Feel free to contribute to this project by submitting pull requests or opening issues for bug fixes or feature requests.

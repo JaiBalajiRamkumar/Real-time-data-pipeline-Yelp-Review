@@ -62,7 +62,7 @@ The architecture consists of the following components:
 *   Create a database named "yelpdb" and a collection "enriched_reviews_collection".
 *   Configure network access and create database users with appropriate privileges.
 
-![MongoDB Atlas Collections](mongo.png)
+![MongoDB Atlas Collections](mongodb.png)
 
 ### 6. Spark Streaming Application
 
@@ -91,7 +91,8 @@ The architecture consists of the following components:
     *   Geographic distribution of reviews (e.g., map).
     *   Other relevant metrics and insights.
 
-    ![Kibana Dashboard](Output.png)
+
+![Kibana Dashboard](Output.png)
 
 
 ## Running the Pipeline
